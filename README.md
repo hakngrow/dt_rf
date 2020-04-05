@@ -1,4 +1,4 @@
-#### Decision Trees &amp; Random Forests
+#### Decision Trees
 
 Decision Trees (DTs) are a non-parametric supervised learning models used for classification and regression. Decision trees learn from data with a set of if-then-else decision rules. Decision trees are one of the most popular algorithms used in machine learning. 
 
